@@ -69,10 +69,3 @@ A comprehensive Power BI dashboard designed to provide key insights into **JS Ba
 
 ---
 
-## 📂 File Structure
-
-```bash
-├── README.md
-├── /assets
-│   └── Bussiness Analysis JS Bank LTD.png
-└── JS_Bank_Business_Analysis.pbix (optional if hosted)
